@@ -30,14 +30,6 @@ h4 {
 	font-weight: bold;
 	background-color: #87CEFA;
 }
-h5 {
-	font-size: 20px;
-	margin-left: 98px;
-	font-weight: lighter;
-	background-color: #B0C4DE;
-	margin-inline-start: 510px;
-	font-weight: bold;
-}
 
 /* Id tag learned from W3Schools (https://www.w3schools.com/html/html_id.asp) */
 /* Applying different formatting to headings on the same level */
@@ -50,6 +42,12 @@ h5 {
 }
 #fleming {
 	margin-top: 465px;
+}
+#links {
+	font-weight: lighter;
+	background-color: #B0C4DE;
+	margin-inline-start: 510px;
+	font-weight: bold;
 }
 /* Applying formatting to all paragraph tags and different formatting for p tag with "lasthead" id */
 p {
