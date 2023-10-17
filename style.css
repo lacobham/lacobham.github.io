@@ -43,11 +43,11 @@ h5 {
 /* Id tag learned from W3Schools (https://www.w3schools.com/html/html_id.asp) */
 /* Applying different formatting to headings on the same level */
 #sanddune {
-	margin-inline-end: 1565px;
+	margin-inline-end: 1180px;
 }
 #data {
 	margin-top: 430px;	
-	margin-inline-end: 1595px;
+	margin-inline-end: 1212px;
 }
 #fleming {
 	margin-top: 465px;
@@ -55,7 +55,7 @@ h5 {
 /* Applying formatting to all paragraph tags and different formatting for p tag with "lasthead" id */
 p {
 	font-size: 17px;
-	margin-bottom: 15px;
+	margin-bottom: 8px;
 	margin-left:98px
 }
 
@@ -159,7 +159,6 @@ a:hover {
 #lauriermap {
 	float: left;
 	margin-right: 632px;
-	margin-top: 26px;
 }
 #datamap {
 	margin-left: 98px;
