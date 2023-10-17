@@ -109,7 +109,7 @@ div.imagegallery {
 	margin-left: 98px;
 	margin-right: 30px;
 }
-/* Sets formatting for images how images fit in gallery */
+/* Sets formatting for how images fit in gallery */
 div.imagegallery img {
 	width: 100%;
 	height: auto;
