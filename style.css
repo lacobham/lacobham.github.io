@@ -157,11 +157,17 @@ a:hover {
 #lauriermap {
 	float: left;
 	margin-right: 632px;
+	max-height: 400px;
+	max-width: 400px;
 }
 #datamap {
 	margin-left: 98px;
+	max-height: 400px;
+	max-width: 400px;
 }
 #flemingmap {
 	margin-left: 98px;
+	max-height: 400px;
+	max-width: 400px;
 }
 /* GMapsOption End */
