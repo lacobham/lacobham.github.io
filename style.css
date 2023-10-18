@@ -158,12 +158,16 @@ a:hover {
 	float: left;
 	margin-right: 632px;
 	max-width: 400px;
+	max-height: 400px;
 }
 #datamap {
 	margin-left: 98px;
 	max-width: 400px;
+	max-height: 400px;
 }
 #flemingmap {
 	margin-left: 98px;
+	max-width: 400px;
+	max-height: 400px;
 }
 /* GMapsOption End */
