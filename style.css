@@ -101,10 +101,10 @@ ul {
 /* All inspiration for image gallery/images CSS from W3Schools (https://www.w3schools.com/css/css_image_gallery.asp) */
 /* ImageOption Begin */
 /* Sets formatting for boxes containing the images in the gallery */
+/* Did not include max-height because it will change the formatting of the border and shift the entire page */
 div.imagegallery {
 	border: 3px solid #000;
 	float: left;
-	max-height: 272px;
 	max-width: 363px;
 	margin-bottom: 20px;
 	margin-left: 98px;
@@ -124,7 +124,6 @@ div.desc {
 #gradphoto {
 	border: 3px solid #000;
 	float: left;
-	max-height: 500px;
 	max-width: 333px;
 	margin-bottom: 20px;
 	margin-left: 98px;
@@ -134,7 +133,6 @@ div.desc {
 	border: 3px solid #000;
 	float: left;
 	max-width: 378px;
-	max-height: 504px;
 	margin-bottom: 20px;
 	margin-left: 98px;
 	margin-right: 30px;
@@ -159,16 +157,13 @@ a:hover {
 #lauriermap {
 	float: left;
 	margin-right: 632px;
-	max-height: 400px;
 	max-width: 400px;
 }
 #datamap {
 	margin-left: 98px;
-	max-height: 400px;
 	max-width: 400px;
 }
 #flemingmap {
-	max-height: 400px;
 	max-width: 400px;
 	margin-top: 34px;
 }
