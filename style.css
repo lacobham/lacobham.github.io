@@ -166,5 +166,6 @@ a:hover {
 #flemingmap {
 	max-width: 400px;
 	max-height: 400px;
+	margin-left: 98px;
 }
 /* GMapsOption End */
