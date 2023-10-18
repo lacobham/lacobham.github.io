@@ -164,8 +164,10 @@ a:hover {
 	max-width: 400px;
 }
 #flemingmap {
+	float:left;
 	max-width: 400px;
 	max-height: 400px;
 	margin-left: 98px;
+	overflow: hidden;
 }
 /* GMapsOption End */
